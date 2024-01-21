@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuwar20&label=Profile%20views&color=0e75b6&style=flat" alt="Anshul-AB" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anshul-AB&label=Profile%20views&color=0e75b6&style=flat" alt="Anshul-AB" /> </p>
 
 - 📫 How to reach me:
 
@@ -57,17 +57,13 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="49" alt="cplusplus logo"  />
 
 </div>
 
 
 <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=Kuwar20&rank_icon=github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuwar20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="170" alt="languages graph"  /> 
-  <img src="https://streak-stats.demolab.com?user=Kuwar20&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3" height="161" alt="streak graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=Anshul-AB&rank_icon=github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="170" alt="stats graph"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anshul-AB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="170" alt="languages graph"  /> 
+  <img src="https://streak-stats.demolab.com?user=Anshul-AB&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3" height="161" alt="streak graph"  />
 </div>
