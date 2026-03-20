@@ -1,4 +1,4 @@
-![MasterHead](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20Stranger%20&text2=💖%20Welcome%20&width=800&height=400)
+
 
 <h1 align="center">Hi 👋, I'm Anshul</h1>
 <h3 align="center">🚀 Full Stack Developer | Building Scalable & Impactful Web Apps</h3>
@@ -7,8 +7,11 @@
 
 ---
 
-### 🟢 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshul-AB&theme=tokyo-night&hide_border=true"/>
+### 🟢 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0ea5e9/Anshul-AB" />
+</p>
 
 ---
 
