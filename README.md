@@ -7,12 +7,6 @@
 
 ---
 
-### 🟢 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0ea5e9/Anshul-AB" />
-</p>
-
 ---
 
 ---
@@ -72,6 +66,13 @@
 - **AI + Backend Optimization**
 
 ---
+
+### 🟢 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0ea5e9/Anshul-AB" />
+</p>
+
 
 ### 💡 Quote I Live By
 > "Consistency beats intensity."
