@@ -3,7 +3,14 @@
 <h1 align="center">Hi 👋, I'm Anshul</h1>
 <h3 align="center">🚀 Full Stack Developer | Building Scalable & Impactful Web Apps</h3>
 
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
+<!-- <img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif"> -->
+
+---
+
+### 🟢 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshul-AB&theme=tokyo-night&hide_border=true"/>
+
+---
 
 ---
 
